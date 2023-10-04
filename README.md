@@ -33,7 +33,7 @@ The folowing **extensions** are implemented:
   
 ## Video Walkthrough 
 
-
+https://github.com/kuzeybektas/Translator/blob/main/Screen%20Recording%202023-10-03%20at%2011.19.39%20PM.mov
 
 ## Notes
 * Does not detect language
